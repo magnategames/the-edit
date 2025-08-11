@@ -1,2 +1,3 @@
 git clone https://github.com/<magnate-games/the-edit.git
 cd the-edit
+./build-all.sh
